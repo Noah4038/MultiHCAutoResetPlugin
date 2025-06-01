@@ -1,0 +1,47 @@
+# デフォルトの無視対象ファイル
+/shelf/
+/workspace.xml
+# 環境に依存する Maven ホームディレクトリのパス
+/mavenHomeManager.xml
+# OSごとのゴミファイル
+.DS_Store
+Thumbs.db
+
+# IntelliJ IDEA のプロジェクト設定ファイル（任意）
+.idea/
+*.iml
+
+# ビルド成果物
+/out/
+build/
+
+# Gradle
+.gradle/
+!gradle/wrapper/gradle-wrapper.jar
+.gradle/gradle.properties
+**/build/
+
+# Maven
+target/
+
+# ログ
+*.log
+
+# Javaコンパイル結果
+*.class
+
+# サーバー環境固有のファイル
+*.jar
+*.lock
+*.flag
+*.tmp
+
+# Minecraft ワールドデータ（開発中は含めない方が良い）
+world/
+world_nether/
+world_the_end/
+
+# その他
+*.swp
+*.bak
+*.tmp
