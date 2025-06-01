@@ -1,7 +1,7 @@
 # MultiHCAutoReset Plugin Guide
 
 ## Overview
-This plugin provides automatic world reset functionality when a player dies in a Minecraft hardcore server. It also implements special death handling in the End, allowing for more strategic gameplay.
+MultiHCAutoReset is a plugin for Minecraft hardcore servers that automatically resets the server when a player dies. It provides convenient functionality to automatically reset the server when a player dies.
 
 ## Requirements
 - **Server**: Purpur / Paper / Spigot (1.20.5 or higher recommended)
