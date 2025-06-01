@@ -11,6 +11,9 @@ Thumbs.db
 .idea/
 *.iml
 
+# VSCode の設定ファイル
+.vscode/
+
 # ビルド成果物
 /out/
 build/
