@@ -1,4 +1,5 @@
 # MultiHCAutoReset
+日本語 | [English](README.en.md)
 
 ## このプラグインについて
 MultiHCAutoResetは、Minecraftのハードコアサーバーを自動でリセットするためのプラグインです。プレイヤーが死んだときに、サーバーを自動的にリセットしてくれます。
