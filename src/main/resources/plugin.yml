@@ -1,0 +1,4 @@
+name: MultiHCAutoResetPlugin
+version: '1.0'
+main: com.Noah4038.multiHCAutoResetPlugin.MultiHCAutoResetPlugin
+api-version: '1.21'
